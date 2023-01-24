@@ -1,1 +1,1 @@
-<a href="#" target="green"><img src="https://uptempom.com/wp-content/uploads/2021/01/naver-icon-style-1.png"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=#03C75A"/></a>
