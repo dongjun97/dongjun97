@@ -1,1 +1,1 @@
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/naver?logo=naver&logoColor=#03C75A"/></a>
+<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
